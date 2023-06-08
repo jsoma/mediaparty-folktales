@@ -1,13 +1,13 @@
+*A talk from [MediaParty 2023](https://mediaparty.org/)*
+
 # How I convinced GPT to teach me about Hungarian folktales (without speaking a word of Hungarian)
 
-*I promise this is actually about data journalism and generative AI, even if you reaaaally don't believe it*
-
-Based on my post [Multi-language document Q&A with LangChain and GPT-3.5-turbo](https://jonathansoma.com/words/multi-language-qa-gpt.html) from March 2023.
+I promise this is actually about data journalism and generative AI, even if you reaaaally don't believe it! Based on my post [Multi-language document Q&A with LangChain and GPT-3.5-turbo](https://jonathansoma.com/words/multi-language-qa-gpt.html) from March 2023.
 
 **Material:**
 
-* [Slides live here](Jonathan Soma - Hungarian Folktales.pdf)
-* [Notebook with examples](multilingual-embeddings-walkthrough.ipynb) – [run live online using Google Colab](https://colab.research.google.com/github/jsoma/mediaparty-folktales/blob/master/notebooks/multilingual-embeddings-walkthrough.ipynb)
+* [Slides live here](presentation.pdf)
+* [Notebook with examples](multilingual-embeddings-walkthrough.ipynb), or you can [run it live online using Google Colab](https://colab.research.google.com/github/jsoma/mediaparty-folktales/blob/main/notebooks/multilingual-embeddings-walkthrough.ipynb)
 
 **Data sources:**
 
