@@ -7,7 +7,7 @@ I promise this is actually about data journalism and generative AI, even if you 
 **Material:**
 
 * [Slides live here](presentation.pdf)
-* [Notebook with examples](multilingual-embeddings-walkthrough.ipynb), or you can [run it live online using Google Colab](https://colab.research.google.com/github/jsoma/mediaparty-folktales/blob/main/notebooks/multilingual-embeddings-walkthrough.ipynb)
+* [Notebook with examples](multilingual-embeddings-walkthrough.ipynb), or you can [run it live online using Google Colab](https://colab.research.google.com/github/jsoma/mediaparty-folktales/blob/main/multilingual-embeddings-walkthrough.ipynb)
 
 **Data sources:**
 
